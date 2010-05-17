@@ -1,0 +1,9 @@
+[submodule "vendor/extensions/rbac_base"]
+	path = vendor/extensions/rbac_base
+	url = git://github.com/saturnflyer/radiant-rbac_base-extension.git
+[submodule "vendor/extensions/rbac_snippets"]
+	path = vendor/extensions/rbac_snippets
+	url = git://github.com/saturnflyer/radiant-rbac_snippets-extension.git
+[submodule "vendor/extensions/rbac_page_edit"]
+	path = vendor/extensions/rbac_page_edit
+	url = git://github.com/saturnflyer/radiant-rbac_page_edit-extension.git
